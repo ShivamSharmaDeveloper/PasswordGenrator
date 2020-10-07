@@ -4,5 +4,7 @@
 
 ## License and copyright
 
-Licence under the [MIT Licence](LICENCE).
+Copyright (c) 2020 Shivam Sharma
+
+Licensed under the [MIT License](LICENSE).
 
