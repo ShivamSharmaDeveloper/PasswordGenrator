@@ -1,3 +1,4 @@
 "# PasswordGenerator" 
 
-![Alt Text](https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif)
+
+[<img src="https://media.giphy.com/media/IgLIVXrBcID9cExa6r/giphy.gif" align="right" width="300" hight="400"/>](https://media.giphy.com/media/IgLIVXrBcID9cExa6r/giphy.gif)
