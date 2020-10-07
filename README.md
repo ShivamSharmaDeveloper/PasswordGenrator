@@ -10,7 +10,7 @@
 
 
 
-## License & Copyright
+# License & Copyright
 
 Copyright © 2020 Shivam Sharma
 
