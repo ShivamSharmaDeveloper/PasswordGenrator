@@ -12,7 +12,7 @@
 
 ## License & Copyright
 
-Copyright (c) 2020 Shivam Sharma
+Copyright © 2020 Shivam Sharma
 
 Licensed under the [MIT License](LICENSE).
 
