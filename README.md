@@ -4,7 +4,7 @@
 
 ## How to Use :
 
-**Steps**
+**Steps [<img src="https://www.flaticon.com/svg/static/icons/svg/2359/2359233.svg" width="15" hight="15"/>](https://www.flaticon.com/svg/static/icons/svg/2359/2359233.svg)**
   - Download the repository by downloading or clonung as u wish.
   -
 
