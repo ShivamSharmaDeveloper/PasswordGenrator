@@ -4,5 +4,5 @@
 
 ## License and copyright
 
-Licence under the [MIT Licence](Licence).
+Licence under the [MIT Licence](LICENCE).
 
