@@ -1,4 +1,4 @@
-# PasswordsGenrator [<img src="https://www.flaticon.com/svg/static/icons/svg/48/48817.svg" align="center"/>](https://www.flaticon.com/svg/static/icons/svg/48/48817.svg)
+# PasswordGenrator [<img src="https://www.flaticon.com/svg/static/icons/svg/48/48817.svg" align="center"/>](https://www.flaticon.com/svg/static/icons/svg/48/48817.svg)
 
 [<img src="https://media.giphy.com/media/IgLIVXrBcID9cExa6r/giphy.gif" align="right" width="300" hight="400"/>](https://media.giphy.com/media/IgLIVXrBcID9cExa6r/giphy.gif)
 
