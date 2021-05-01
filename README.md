@@ -41,7 +41,7 @@ _Licensed under the [MIT License](LICENSE)._
 # Author Info
 
 - Youtube tutorial - [CodeHub!](https://www.youtube.com/channel/UCRY6l4-atqPLS83DZXgQvYA)
-- Website - [shivamcodehub.ml](https://shviamcodehub.ml)
+- Website - [shivamsharmadeveloper.ml](https://shivamsharmadeveloper.ml)
 - Twitter - [@ShivamSharmaDev](https://twitter.com/ShivamSharmaDev)
 
 
